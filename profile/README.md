@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CodeCortexDigital/.github/main/profile/logo.png" alt="Code Cortex Logo" width="140"/>
 
 <div align="center">
 
