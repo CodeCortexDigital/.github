@@ -274,17 +274,13 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 | Project | Description | Tech Stack | Status |
 |:---|:---|:---:|:---:|
-| [**ProjectA**](https://github.com/CodeCortexDigital/ProjectA) | UK-facing platform for custom automation & web scraping | JavaScript | 🟢 Active |
+| [**SafeKid Transport**](https://github.com/CodeCortexDigital/SafeKid-Transport) | Mobile app for safe school transport tracking & parent notifications | React Native · Node.js | 🟢 Active |
+| [**Utility Monitor**](https://github.com/CodeCortexDigital/Utility-Monitor) | App for tracking and managing utility usage in real-time | React Native · Node.js | 🟢 Active |
+| [**Clean Route**](https://github.com/CodeCortexDigital/Clean-Route) | Web platform for smart waste collection & route optimization | React · Node.js · PostgreSQL | 🟢 Active |
+| [**School ERP**](https://github.com/CodeCortexDigital/School-ERP) | Full-featured web-based ERP system for school management | React · Node.js · Express · PostgreSQL | 🟢 Active |
 | [**Your-Real-Estate**](https://github.com/CodeCortexDigital/Your-Real-Estate) | Full-stack real estate advertisement platform | React · Redux · Express · Node · PostgreSQL | 🟢 Active |
-| [**study-planning**](https://github.com/CodeCortexDigital/study-planning) | Cross-platform desktop GUI analyzing study time needed | Python | 🟢 Active |
-| [**new-study-planner**](https://github.com/CodeCortexDigital/new-study-planner) | ETH Study Planner — native iOS productivity app | Swift | 🟢 Active |
-| [**protectionMethods**](https://github.com/CodeCortexDigital/protectionMethods) | Research & tools for code obfuscation | C# | 🟢 Active |
-| [**CheckList**](https://github.com/CodeCortexDigital/CheckList) | Lightweight task and checklist management utility | — | 🟢 Active |
-| [**secrets-manager**](https://github.com/CodeCortexDigital/secrets-manager) | Secure secrets/configuration management tool | — | 🟢 Active |
 
-</div>
-
-<br/>
+</div><br/>
 
 <div align="center">
 
