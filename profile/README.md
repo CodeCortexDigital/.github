@@ -274,11 +274,11 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 | Project | Description | Tech Stack | Status |
 |:---|:---|:---:|:---:|
-| [**SafeKid Transport**] | Mobile app for safe school transport tracking & parent notifications | React Native · Node.js | 🟢 Active |
-| [**Utility Monitor**] | App for tracking and managing utility usage in real-time | React Native · Node.js | 🟢 Active |
-| [**Clean Route**] | Web platform for smart waste collection & route optimization | React · Node.js · PostgreSQL | 🟢 Active |
-| [**School ERP**] | Full-featured web-based ERP system for school management | React · Node.js · Express · PostgreSQL | 🟢 Active |
-| [**Your-Real-Estate**] | Full-stack real estate advertisement platform | React · Redux · Express · Node · PostgreSQL | 🟢 Active |
+| **SafeKid Transport** | Mobile app for safe school transport tracking & parent notifications | React Native · Node.js | 🟢 Active |
+| **Utility Monitor** | App for tracking and managing utility usage in real-time | React Native · Node.js | 🟢 Active |
+| **Clean Route** | Web platform for smart waste collection & route optimization | React · Node.js · PostgreSQL | 🟢 Active |
+| **School ERP** | Full-featured web-based ERP system for school management | React · Node.js · Express · PostgreSQL | 🟢 Active |
+| **Your-Real-Estate** | Full-stack real estate advertisement platform | React · Redux · Express · Node · PostgreSQL | 🟢 Active |
 
 </div><br/>
 
