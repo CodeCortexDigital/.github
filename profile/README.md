@@ -279,8 +279,13 @@ Clean, user-centered interface design that balances aesthetics with usability an
 | **Clean Route** | Web platform for smart waste collection & route optimization | React · Node.js · PostgreSQL | 🟢 Active |
 | **School ERP** | Full-featured web-based ERP system for school management | React · Node.js · Express · PostgreSQL | 🟢 Active |
 | **Your-Real-Estate** | Full-stack real estate advertisement platform | React · Redux · Express · Node · PostgreSQL | 🟢 Active |
+| **CRM System** | Customer Relationship Management system with auth, role-based access & dashboard analytics | React.js · Node.js · Express.js · MongoDB · JWT | 🟢 Active |
+| **Inventory Management System** | Complete inventory system for tracking products, stock levels & transactions with secure backend APIs | Node.js · Express.js · MongoDB · REST APIs | 🟢 Active |
+| **Mini E-Commerce Web App** | E-commerce web app with product listing, cart, authentication & order handling | React.js · Node.js · Express.js · MongoDB | 🟢 Active |
+| **Task Manager Web App (MVP)** | Full-stack task manager with create/update/prioritize/delete tasks & secure APIs | React.js · Node.js · Express.js · MongoDB | 🟢 Active |
 
-</div><br/>
+</div>
+<br/>
 
 <div align="center">
 
