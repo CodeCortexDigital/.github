@@ -343,7 +343,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 We're always on the lookout for talented developers, designers, and problem-solvers who care about quality craftsmanship. If you're passionate about building great software, reach out — we'd love to hear from you.
 
-📧 **careers@codecortexdigital.com**
+📧 **info@codecortexdigital.com**
 
 </div>
 
