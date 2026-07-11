@@ -7,7 +7,7 @@
 ![Code Cortex](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:0077B5&height=150&section=header&text=CODE%20CORTEX&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Digital%20Growth%20Through%20Intelligent%20Software&descAlignY=65&descSize=18&animation=fadeIn)
 
 </div>
-### *Engineering Digital Growth Through Intelligent Software*
+*Engineering Digital Growth Through Intelligent Software*
 
 **Software Development Company** • Attock, Pakistan 🇵🇰
 
