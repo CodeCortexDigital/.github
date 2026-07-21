@@ -156,7 +156,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-# <img src="https://img.icons8.com/fluency/32/technology.png" width="28"/> Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
