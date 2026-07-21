@@ -22,19 +22,12 @@
 
 <br/>
 
-<div align="center">
-
-### 📖 Table of Contents
-
-[`About`](#-about-us) • [`Mission & Vision`](#-mission--vision) • [`Core Values`](#-core-values) • [`Services`](#-our-services) • [`Tech Stack`](#️-tech-stack--tools) • [`Workflow`](#-how-we-work) • [`Projects`](#-featured-projects) • [`Industries`](#-industries-we-serve) • [`Why Us`](#-why-choose-code-cortex) • [`Stats`](#-organization-snapshot) • [`Testimonials`](#-what-clients-say) • [`Careers`](#-join-our-team) • [`FAQ`](#-frequently-asked-questions) • [`Contact`](#-lets-build-something-great)
-
-</div>
 
 <br/>
 
 <div align="center">
 
-## 🏢 About Us
+##  About Us
 
 </div>
 
@@ -52,7 +45,7 @@ From automation scripts that save businesses hundreds of hours, to full-scale we
 
 <div align="center">
 
-## 🎯 Mission & Vision
+##  Mission & Vision
 
 </div>
 
@@ -60,13 +53,13 @@ From automation scripts that save businesses hundreds of hours, to full-scale we
 <tr>
 <td width="50%" valign="top">
 
-### 🚩 Our Mission
+###  Our Mission
 To empower businesses of all sizes with custom digital solutions that simplify operations, reduce costs, and unlock growth through smart automation and modern engineering.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Our Vision
+###  Our Vision
 To become a globally trusted software partner recognized for reliability, innovation, and technical excellence — bridging world-class development talent in Pakistan with businesses worldwide.
 
 </td>
@@ -77,16 +70,16 @@ To become a globally trusted software partner recognized for reliability, innova
 
 <div align="center">
 
-## 💎 Core Values
+##  Core Values
 
 | Value | Description |
 |:---:|---|
-| 🎯 **Precision** | Every line of code is written with purpose and attention to detail |
-| 🔒 **Integrity** | Transparent communication and honest timelines with every client |
-| ⚡ **Innovation** | We adopt modern tools and practices to stay ahead of the curve |
-| 🤝 **Partnership** | We treat every project as a long-term relationship, not a transaction |
-| 📈 **Impact** | We measure success by the real value we create for our clients |
-| 🛡️ **Security** | We build with protection of client data and IP as a first-class concern |
+|  **Precision** | Every line of code is written with purpose and attention to detail |
+|  **Integrity** | Transparent communication and honest timelines with every client |
+|  **Innovation** | We adopt modern tools and practices to stay ahead of the curve |
+|  **Partnership** | We treat every project as a long-term relationship, not a transaction |
+|  **Impact** | We measure success by the real value we create for our clients |
+|  **Security** | We build with protection of client data and IP as a first-class concern |
 
 </div>
 
@@ -94,7 +87,7 @@ To become a globally trusted software partner recognized for reliability, innova
 
 <div align="center">
 
-## 🧩 Our Services
+##  Our Services
 
 </div>
 
@@ -102,13 +95,13 @@ To become a globally trusted software partner recognized for reliability, innova
 <tr>
 <td width="50%">
 
-**🌐 Web Development**
+** Web Development**
 Full-stack web applications built with modern, scalable frameworks — from marketing sites to complex platforms with authentication, dashboards, and real-time data.
 
 </td>
 <td width="50%">
 
-**🤖 Automation & Web Scraping**
+** Automation & Web Scraping**
 Custom scripts and pipelines that eliminate manual, repetitive work — data extraction, reporting automation, and process optimization.
 
 </td>
@@ -116,13 +109,13 @@ Custom scripts and pipelines that eliminate manual, repetitive work — data ext
 <tr>
 <td width="50%">
 
-**📱 Mobile App Development**
+** Mobile App Development**
 Native and cross-platform mobile applications, including iOS apps built with Swift, designed with performance and UX in mind.
 
 </td>
 <td width="50%">
 
-**🏗️ Custom Software Solutions**
+** Custom Software Solutions**
 Bespoke internal tools and platforms tailored to unique business workflows — built to fit your operations, not the other way around.
 
 </td>
@@ -130,13 +123,13 @@ Bespoke internal tools and platforms tailored to unique business workflows — b
 <tr>
 <td width="50%">
 
-**🔐 Application Security**
+** Application Security**
 Code obfuscation, secure architecture design, and best practices to protect intellectual property and sensitive assemblies.
 
 </td>
 <td width="50%">
 
-**📊 Productivity Tools**
+** Productivity Tools**
 In-house and client-facing tools for planning, task tracking, and time management — built from real operational needs.
 
 </td>
@@ -144,13 +137,13 @@ In-house and client-facing tools for planning, task tracking, and time managemen
 <tr>
 <td width="50%">
 
-**☁️ Digital Transformation**
+** Digital Transformation**
 Helping traditional businesses modernize their operations through the right digital tools and strategy.
 
 </td>
 <td width="50%">
 
-**🎨 UI/UX Design**
+** UI/UX Design**
 Clean, user-centered interface design that balances aesthetics with usability and conversion.
 
 </td>
@@ -163,7 +156,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Languages**
 
@@ -248,7 +241,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 🔄 How We Work
+##  How We Work
 
 </div>
 
@@ -270,7 +263,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack | Status |
 |:---|:---|:---:|:---:|
@@ -289,7 +282,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 🌍 Industries We Serve
+##  Industries We Serve
 
 🏘️ **Real Estate**   •   🎓 **Education**   •   🛒 **E-Commerce**   •   🏢 **SMBs & Startups**   •   🔐 **Enterprise Security**   •   📦 **Logistics**   •   💳 **FinTech**
 
@@ -299,7 +292,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 🌟 Why Choose Code Cortex
+##  Why Choose Code Cortex
 
 </div>
 
@@ -321,9 +314,9 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 📊 Organization Snapshot
+##  Organization Snapshot
 
-| 📍 Location | 🗂️ Public Repos | 🧠 Core Focus | 👥 Team Size |
+|  Location |  Public Repos |  Core Focus |  Team Size |
 |:---:|:---:|:---:|:---:|
 | Attock, Pakistan | 9+ | Web, Automation, Mobile | Growing  |
 
@@ -333,7 +326,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 💬 What Clients Say
+##  What Clients Say
 
 > *"Code Cortex delivered exactly what we needed — on time, and with great communication throughout."*
 > **— Placeholder Client Testimonial**
@@ -344,11 +337,11 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-## 👥 Join Our Team
+##  Join Our Team
 
 We're always on the lookout for talented developers, designers, and problem-solvers who care about quality craftsmanship. If you're passionate about building great software, reach out — we'd love to hear from you.
 
-📧 **info@codecortexdigital.com**
+ **info@codecortexdigital.com**
 
 </div>
 
@@ -356,13 +349,13 @@ We're always on the lookout for talented developers, designers, and problem-solv
 
 <div align="center">
 
-## 📬 Let's Build Something Great
+##  Let's Build Something Great
 
 Have a project in mind? Need to modernize an existing system? We'd love to talk.
 
-[![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-00C2CB?style=for-the-badge)](https://www.codecortexdigital.com)
-[![Email Us](https://img.shields.io/badge/📧_Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@codecortexdigital.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/code-cortex)
+[![Website](https://img.shields.io/badge/_Visit_Our_Website-00C2CB?style=for-the-badge)](https://www.codecortexdigital.com)
+[![Email Us](https://img.shields.io/badge/_Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@codecortexdigital.com)
+[![LinkedIn](https://img.shields.io/badge/_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/code-cortex)
 
 <br/>
 
