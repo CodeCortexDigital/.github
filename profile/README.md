@@ -156,91 +156,256 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <div align="center">
 
-##  Tech Stack & Tools
+# <img src="https://img.icons8.com/fluency/32/technology.png" width="28"/> Tech Stack
 
-**Languages**
+<table align="center">
+<tr>
+<td align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend Development
 
-**Frameworks & Libraries**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
 
-**Mobile Development**
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+<b>TypeScript</b>
+</td>
 
-**Databases**
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React</b>
+</td>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>
+<b>Next.js</b>
+</td>
 
-**Cloud & DevOps**
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+<b>Tailwind CSS</b>
+</td>
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+<b>Figma</b>
+</td>
 
-**Tools & Design**
+</tr>
+</table>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+---
 
-**Automation & Scraping**
+### 📱 Mobile Development
 
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+<table>
+<tr>
 
-</div><br/>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>
+<b>Flutter</b>
+</td>
 
-<div align="center">
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=dart" width="55"/><br>
+<b>Dart</b>
+</td>
 
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kotlin" width="55"/><br>
+<b>Kotlin</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=swift" width="55"/><br>
+<b>Swift</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>
+<b>Android Studio</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React Native</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### ⚙️ Backend Development
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<b>Express</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django" width="55"/><br>
+<b>Django</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+<b>FastAPI</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
+<b>Flask</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🗄️ Databases
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
+<b>Firebase</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="55"/><br>
+<b>Redis</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+<b>SQLite</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=supabase" width="55"/><br>
+<b>Supabase</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gcp" width="55"/><br>
+<b>Google Cloud</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=azure" width="55"/><br>
+<b>Azure</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/><br>
+<b>Kubernetes</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>
+<b>Vercel</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=netlify" width="55"/><br>
+<b>Netlify</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🛠️ Tools & Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jira,trello,slack,npm&perline=9" />
+</p>
+
+---
+
+### 🤖 Automation & Scraping
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white">
+
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
+
+</p>
+
+</td>
+</tr>
+</table>
 ##  How We Work
 
 </div>
