@@ -162,7 +162,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 <tr>
 <td align="center">
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <table>
 <tr>
@@ -211,7 +211,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 
 <table>
 <tr>
@@ -251,7 +251,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ---
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <table>
 <tr>
@@ -291,7 +291,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ---
 
-### 🗄️ Databases
+###  Databases
 
 <table>
 <tr>
@@ -336,7 +336,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ---
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <table>
 <tr>
@@ -381,25 +381,71 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ---
 
-### 🛠️ Tools & Design
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jira,trello,slack,npm&perline=9" />
-</p>
+##  Tools & Design
+
+<table align="center">
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<b>Postman</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+<b>Figma</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=npm" width="55"/><br>
+<b>npm</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🤖 Automation & Scraping
+##  Automation & Scraping
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</td>
 
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white">
+</td>
 
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</td>
 
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
+</td>
+
+</tr>
+</table>
 
 </p>
 
