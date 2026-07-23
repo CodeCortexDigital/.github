@@ -1,5 +1,3 @@
-<div align="center">
-
 ![Code Cortex](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:0077B5&height=150&section=header&text=CODE%20CORTEX&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Digital%20Growth%20Through%20Intelligent%20Software&descAlignY=65&descSize=18&animation=fadeIn)
 
 *Engineering Digital Growth Through Intelligent Software*
@@ -14,8 +12,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeCortexDigital&color=00C2CB&style=for-the-badge&label=PROFILE+VIEWS)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/CodeCortexDigital&label=Public%20Repos&query=%24.public_repos&color=success&style=for-the-badge)
 
-</div>
-
 <br/>
 
 ## About Us
@@ -24,11 +20,7 @@
 
 From automation scripts that save businesses hundreds of hours to full-scale web platforms and mobile apps used by thousands, our work spans the full spectrum of modern software development — always grounded in clean code, sound architecture, and a deep understanding of client goals.
 
-<div align="center">
-
 > *"We don't just write code — we engineer outcomes."*
-
-</div>
 
 <br/>
 
@@ -129,13 +121,11 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <br/>
 
-<div align="center">
-
 ## Tech Stack
 
-<table align="center">
+<table>
 <tr>
-<td align="center">
+<td>
 
 ###  Frontend Development
 
@@ -360,7 +350,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ##  Tools & Design
 
-<table align="center">
+<table>
 <tr>
 
 <td align="center" width="90">
@@ -400,7 +390,7 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 ##  Automation & Scraping
 
-<table align="center">
+<table>
 <tr>
 
 <td align="center" width="110">
@@ -425,8 +415,6 @@ Clean, user-centered interface design that balances aesthetics with usability an
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
@@ -496,8 +484,6 @@ We're always on the lookout for talented developers, designers, and problem-solv
 
 <br/>
 
-<div align="center">
-
 ## Let's Build Something Great
 
 Have a project in mind? Need to modernize an existing system? We'd love to talk.
@@ -509,5 +495,3 @@ Have a project in mind? Need to modernize an existing system? We'd love to talk.
 ### *"Code with purpose. Build with precision."*
 
 **© 2026 Code Cortex Digital Solutions. All Rights Reserved.**
-
-</div>
