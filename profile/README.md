@@ -129,52 +129,304 @@ Clean, user-centered interface design that balances aesthetics with usability an
 
 <br/>
 
+<div align="center">
+
 ## Tech Stack
 
-### Frontend Development
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
-</p>
+###  Frontend Development
 
-### Mobile Development
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,react" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
 
-### Backend Development
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,flask" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+<b>TypeScript</b>
+</td>
 
-### Databases
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React</b>
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,sqlite,supabase" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>
+<b>Next.js</b>
+</td>
 
-### Cloud & DevOps
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+<b>Tailwind CSS</b>
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+<b>Figma</b>
+</td>
 
-### Tools & Design
+</tr>
+</table>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
-</p>
+---
 
-### Automation & Scraping
+###  Mobile Development
 
-<p align="center">
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>
+<b>Flutter</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=dart" width="55"/><br>
+<b>Dart</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kotlin" width="55"/><br>
+<b>Kotlin</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=swift" width="55"/><br>
+<b>Swift</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>
+<b>Android Studio</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React Native</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+###  Backend Development
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<b>Express</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django" width="55"/><br>
+<b>Django</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+<b>FastAPI</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
+<b>Flask</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+###  Databases
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
+<b>Firebase</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="55"/><br>
+<b>Redis</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+<b>SQLite</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=supabase" width="55"/><br>
+<b>Supabase</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+###  Cloud & DevOps
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gcp" width="55"/><br>
+<b>Google Cloud</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=azure" width="55"/><br>
+<b>Azure</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/><br>
+<b>Kubernetes</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>
+<b>Vercel</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=netlify" width="55"/><br>
+<b>Netlify</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+---
+
+##  Tools & Design
+
+<table align="center">
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<b>Postman</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+<b>Figma</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=npm" width="55"/><br>
+<b>npm</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+##  Automation & Scraping
+
+<table align="center">
+<tr>
+
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</td>
+
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white">
+</td>
+
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</td>
+
+<td align="center" width="110">
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
-</p>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
